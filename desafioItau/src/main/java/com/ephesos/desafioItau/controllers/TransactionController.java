@@ -2,6 +2,8 @@ package com.ephesos.desafioItau.controllers;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -20,9 +22,16 @@ public class TransactionController {
 	
 	
 	@PostMapping(consumes = MediaType.APPLICATION_JSON)
-	public void create(@RequestBody Transaction transaction) {
+	public ResponseEntity<Void> create(@RequestBody Transaction transaction) {
 		
-		transactionService.createTransaction(transaction);
+		try {
+			transactionService.createTransaction(transaction);
+			return ResponseEntity.status(HttpStatus.CREATED).build();//201
+		} catch (IllegalArgumentException e) {
+			return ResponseEntity.badRequest().build();//400
+		}
+		
+		
 		
 	}
 
