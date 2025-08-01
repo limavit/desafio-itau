@@ -1,0 +1,95 @@
+2025-07-31T17:12:27.330-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 17529 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:12:27.330-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:12:27.409-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:12:27.410-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:12:27.410-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:12:27.414-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:12:27.414-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 82 ms
+2025-07-31T17:12:27.447-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:12:27.452-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:12:27.454-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 0.16 seconds (process running for 865.662)
+2025-07-31T17:12:27.455-03:00  INFO 17529 --- [Desafio Itau] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-31T17:12:42.386-03:00  INFO 17529 --- [Desafio Itau] [RMI TCP Connection(36)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-07-31T17:12:42.387-03:00  INFO 17529 --- [Desafio Itau] [RMI TCP Connection(36)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:12:42.388-03:00  INFO 17529 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-31T17:12:43.486-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 18658 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:12:43.488-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:12:43.514-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-07-31T17:12:43.514-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-07-31T17:12:44.031-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:12:44.041-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:12:44.041-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:12:44.066-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:12:44.066-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 552 ms
+2025-07-31T17:12:44.265-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:12:44.287-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:12:44.293-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 1.075 seconds (process running for 1.463)
+2025-07-31T17:13:08.670-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-31T17:13:08.671-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-07-31T17:13:08.671-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-07-31T17:13:27.701-03:00  INFO 18658 --- [Desafio Itau] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-31T17:13:27.703-03:00  INFO 18658 --- [Desafio Itau] [Thread-5] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:13:27.706-03:00  INFO 18658 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-31T17:13:27.758-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 18658 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:13:27.759-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:13:27.860-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:13:27.861-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:13:27.861-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:13:27.865-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:13:27.866-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 106 ms
+2025-07-31T17:13:27.907-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:13:27.913-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:13:27.916-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 0.172 seconds (process running for 45.086)
+2025-07-31T17:13:27.917-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-31T17:13:32.255-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-31T17:13:32.255-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-07-31T17:13:32.256-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-07-31T17:14:01.334-03:00  INFO 18658 --- [Desafio Itau] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-31T17:14:01.335-03:00  INFO 18658 --- [Desafio Itau] [Thread-7] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:14:01.336-03:00  INFO 18658 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-31T17:14:01.380-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 18658 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:14:01.380-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:14:01.468-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:14:01.468-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:14:01.469-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:14:01.473-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:14:01.473-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 92 ms
+2025-07-31T17:14:01.510-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:14:01.517-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:14:01.519-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 0.152 seconds (process running for 78.69)
+2025-07-31T17:14:01.520-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-31T17:15:31.980-03:00  INFO 18658 --- [Desafio Itau] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-31T17:15:31.981-03:00  INFO 18658 --- [Desafio Itau] [Thread-11] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:15:31.982-03:00  INFO 18658 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-31T17:15:32.024-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 18658 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:15:32.024-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:15:32.108-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:15:32.108-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:15:32.108-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:15:32.112-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:15:32.112-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 87 ms
+2025-07-31T17:15:32.148-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:15:32.153-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:15:32.155-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 0.145 seconds (process running for 169.326)
+2025-07-31T17:15:32.156-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-31T17:15:47.561-03:00  INFO 18658 --- [Desafio Itau] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-07-31T17:15:47.562-03:00  INFO 18658 --- [Desafio Itau] [Thread-15] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:15:47.563-03:00  INFO 18658 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-07-31T17:15:47.607-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Starting DesafioItauApplication using Java 21.0.7 with PID 18658 (/home/vitor/Documentos/wsgit/desafio-itau/desafioItau/target/classes started by vitor in /home/vitor/Documentos/wsgit/desafio-itau/desafioItau)
+2025-07-31T17:15:47.607-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : No active profile set, falling back to 1 default profile: "default"
+2025-07-31T17:15:47.695-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-07-31T17:15:47.695-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-07-31T17:15:47.695-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-07-31T17:15:47.699-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-07-31T17:15:47.699-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 91 ms
+2025-07-31T17:15:47.732-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-07-31T17:15:47.736-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-07-31T17:15:47.739-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] c.e.desafioItau.DesafioItauApplication   : Started DesafioItauApplication in 0.146 seconds (process running for 184.909)
+2025-07-31T17:15:47.740-03:00  INFO 18658 --- [Desafio Itau] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-07-31T17:15:49.492-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-07-31T17:15:49.492-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-07-31T17:15:49.492-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-07-31T17:15:49.495-03:00  INFO 18658 --- [Desafio Itau] [http-nio-8080-exec-1] c.e.d.services.TransactionService        : Insert Transaction
+2025-07-31T17:15:56.775-03:00  INFO 18658 --- [Desafio Itau] [RMI TCP Connection(19)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-07-31T17:15:56.776-03:00  INFO 18658 --- [Desafio Itau] [RMI TCP Connection(19)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-07-31T17:15:56.776-03:00  INFO 18658 --- [Desafio Itau] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
